@@ -12,7 +12,6 @@
 - 🔭 I'm currently working on **job applications**
 - 🌱 I'm currently learning **Python, SQL, and R**
 - 👯 I'm looking to collaborate on **data science projects**
-- 🤝 I'm looking for help with **NOTHING**
 - 📫 How to reach me **chaudaryahmad03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
